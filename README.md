@@ -31,4 +31,4 @@ Tutorial: https://docs.docker.com/docker-for-windows/install/
 7.7-Aplicar e salvar;<br>
 7.8-Reiniciar o computador.<br>
 
-##Máquina pronta para a primeira imagem!!
+### Máquina pronta para a primeira imagem!!
