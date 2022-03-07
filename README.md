@@ -22,13 +22,13 @@ wsl --set-default-version 2
 Tutorial: https://docs.docker.com/docker-for-windows/install/
 
 ### Passo 7 (Adicionar o usuario ao grupo de adm do docker Admin)
-7.1-Procure na barra de pesquisa 'gerenciamento do computador';
-7.2-Ferramentas do sistema;
-7.3-Usuarios e Grupos Locais;
-7.4-Grupos;
-7.5-Docker-users(provavelmente o último da lista);
-7.6-Adicione o seu usuário;
-7.7-Aplicar e salvar;
-7.8-Reiniciar o computador.
+7.1-Procure na barra de pesquisa 'gerenciamento do computador';<br>
+7.2-Ferramentas do sistema;<br>
+7.3-Usuarios e Grupos Locais;<br>
+7.4-Grupos;<br>
+7.5-Docker-users(provavelmente o último da lista);<br>
+7.6-Adicione o seu usuário;<br>
+7.7-Aplicar e salvar;<br>
+7.8-Reiniciar o computador.<br>
 
 ##Máquina pronta para a primeira imagem!!
